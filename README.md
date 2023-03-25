@@ -1,9 +1,7 @@
-![ProfileCard](https://raw.githubusercontent.com/msubhanahmed/assets/main/ProfileCard.gif)
-
- A skilled and motivated web developer from Pakistan
+ Hi, I'm Muhammad Subhan.
  
-- 👀 I’m interested in Web And Mobile Development
-- 🌱 I’m currently doing my Bachelors In Computer Science
+- 👀 I’m interested in Web Development and Machine Learning.
+- 🌱 I’m currently doing my Bachelors in Computer Science
 - 📫 subhanahmed114624@gmail.com
 - 🕸 https://msubhanahmed.github.io/IPortfolio/
 - [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/m_subhan_ahmed)
