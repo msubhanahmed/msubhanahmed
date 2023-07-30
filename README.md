@@ -4,5 +4,5 @@
 - 🌱 I’m currently doing my Bachelors in Computer Science
 - 📫 subhanahmed114624@gmail.com
 - 🕸 https://msubhanahmed.github.io/IPortfolio/
-- [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/m_subhan_ahmed)
+- 🕸 https://subhan.vercel.app/ 
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/muhammad-subhan-19826a1a1/)
