@@ -1,4 +1,4 @@
-![](https://github.com/msubhanahmed/msubhanahmed/blob/366794e2876c38b98a15311cb5c4290c8786171c/Black%20Minimalist%20Content%20Creator%20LinkedIn%20Banner.png)
+![](https://github.com/msubhanahmed/msubhanahmed/blob/8c9ccbd5c9b05ecb32bc887a79879605e1d23821/Black%20Minimalist%20Content%20Creator%20LinkedIn%20Banner.png)
 Hi, I'm Muhammad Subhan.
  
 - 👀 I’m interested in Deep Learning, Computer Vision and Web Development.
